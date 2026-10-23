@@ -1,0 +1,39 @@
+{
+  "proje_anahtari": "ORN_V002",
+  "dosya_adi": "ORN_V002_ses.mp3",
+  "senaryo_surumu": "TEST PAKETİ (ornek senaryolar) — beyan edilen SHA-256 ile eşleşti",
+  "okunan_metin": "Topuk çatlağı kremle değil, sırayla kapanır. Duştan çıkar çıkmaz, deri yumuşakken topuğu tek yönde hafifçe törpüle. Kesme, rendeleme; kalınlaşmış deriyi zorlarsan çatlak derinleşir. Nemliyken üre içeren bir krem sür, üzerine pamuklu çorap geçir. Her duş sonrası tekrar et, çünkü sertleşen tabaka her gün kalınlaşır. Şeker hastalığın varsa veya çatlak kanıyorsa kendin müdahale etme, bir uzmana görün. Bunu kaydet, rutini kaçırmamak için. Ve unutma...",
+  "metin_sha256": "69d0ba0a6a37d6f31560f1ee3e2fa80f433181f5f1c35bb92bc29951cfdb2cce",
+  "beyan_edilen_senaryo_sha256": "69d0ba0a6a37d6f31560f1ee3e2fa80f433181f5f1c35bb92bc29951cfdb2cce",
+  "metin_hash_dogrulandi": true,
+  "dil": "tr-TR",
+  "konusmaci": "kadın anlatıcı",
+  "ses_id": "voice-10",
+  "ses_secim_kaydi": "Kullanıcı onayı: 'kadın' takma adı = voice-10 (gender=feminine, use_case=conversational, language=tr, index=10, bu oturum)",
+  "sentez_hiz_ayari": null,
+  "post_speed_factor": 1.0,
+  "uygulanmis_islemler": [],
+  "temizlik": "yok (sentez çıktısı olduğu gibi)",
+  "gercek_sure_sn": 32.18,
+  "ornekleme_hizi_hz": 24000,
+  "kanal": 1,
+  "bicim": "MP3 (codec: MPEG Layer III)",
+  "bit_hizi_bps": 32000,
+  "byte_boyutu": 128973,
+  "dosya_sha256": "eadd01abb1ee5c1b5938958e1627a32596a27b7c31ea2b3e269000d0e7e12bad",
+  "yapilan_kontroller": [
+    "dosya decode edildi (mutagen)",
+    "süre/ornekleme/kanal/bit hızı ölçüldü",
+    "metin SHA-256 beyanla eşleşti",
+    "dosya SHA-256 alındı"
+  ],
+  "yapilmayan_kontroller": [
+    "dinleme yapılmadı (ses dinleme yeteneği yok)",
+    "otomatik transkripsiyon yapılmadı"
+  ],
+  "sorunlar": [
+    "Ses promptu 165-175 kelime/dk isterken ölçülen tempo ~117-124 kelime/dk; hız parametresi/atempo uygulanmadı.",
+    "Ses promptu 30-40 yaş sıcak-sakin kadın ses isterken atanmış ses voice-10 (genç influencer tonu) kullanıldı; ses değişikliği talimatı gelmedi."
+  ],
+  "requires_alignment": true
+}
