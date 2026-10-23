@@ -1,0 +1,36 @@
+{
+  "proje_anahtari": "ORN_V005",
+  "dosya_adi": "ORN_V005_ses.wav",
+  "senaryo_surumu": "Seri 2 v2 (ORN_V004-006) — bu ileti metin hash'i içermiyor; hash burada hesaplandı",
+  "okunan_metin": "Ayakkabını çıkarınca gelen koku ayağının değil, ayakkabının suçu. Nemli ortamda bakteriler çoğalır; koku terden değil, onlardan gelir. Her sabah aynı çifti giyiyorsan nemi ayağına geri veriyorsun. Ayakkabıyı yirmi dört saat dinlendir ve dönüşümlü kullan. Akşam içine bir yemek kaşığı karbonat dök, sabah silkele; karbonat nemi çeker. Çorabı pamuklu seç, günde bir kez değiştir ve ayaklarını parmak araları dahil iyice kurula. Koku kaşıntı ve pullanmayla geliyorsa mantar olabilir; kendin çözme, bir uzmana görün. Bunu kaydet, dolabındaki çiftleri ayır. Ve unutma...",
+  "metin_sha256": "03f241c9472e288f60556767409be97fea41812953eb106e241e5d10b72ae30e",
+  "dil": "tr-TR",
+  "konusmaci": "kadın anlatıcı",
+  "ses_id": "voice-10",
+  "ses_secim_kaydi": "Kullanıcı onayı: 'kadın' = voice-10 (feminine, conversational, tr, index 10, bu oturum)",
+  "sentez_hiz_ayari": null,
+  "post_speed_factor": 1.0,
+  "uygulanmis_islemler": [],
+  "temizlik": "yok (sentez çıktısı olduğu gibi)",
+  "gercek_sure_sn": 37.4,
+  "ornekleme_hizi_hz": 24000,
+  "kanal": 1,
+  "bicim": "WAV (PCM)",
+  "bit_derinligi_bit": 16,
+  "byte_boyutu": 1795278,
+  "dosya_sha256": "9d31e72e9f56c3a37e1d4e0ae71a5c22a877e409605efc386a1d049d447eb5ff",
+  "yapilan_kontroller": [
+    "dosya açıldı/decode edildi (Python wave)",
+    "süre/örnekleme/kanal/bit derinliği ölçüldü",
+    "metin + dosya SHA-256 hesaplandı"
+  ],
+  "yapilmayan_kontroller": [
+    "dinleme yapılmadı",
+    "otomatik transkripsiyon yapılmadı"
+  ],
+  "sorunlar": [
+    "Ses promptu sıcak/sakin 30-40 yaş kadın isterken atanmış ses voice-10 kullanıldı (genç ton).",
+    "Duraklama/vurgu (~200 ms) yönergeleri sentez aracında ayarlanamıyor; uygulanmadı."
+  ],
+  "requires_alignment": true
+}

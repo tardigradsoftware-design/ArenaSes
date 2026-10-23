@@ -1,0 +1,36 @@
+{
+  "proje_anahtari": "ORN_V004",
+  "dosya_adi": "ORN_V004_ses.wav",
+  "senaryo_surumu": "Seri 2 v2 (ORN_V004-006) — bu ileti metin hash'i içermiyor; hash burada hesaplandı",
+  "okunan_metin": "Duşta su azaldıysa ilk bakacağın yer tesisat değil. Başlığın deliklerini kireç tıkıyor ve suyun yarısı boşa gidiyor. Başlığı sök; yarım bardak beyaz sirkeyi yarım bardak suyla karıştır. Başlığı poşete daldırıp ağzını lastikle bağla, otuz dakika bekle. Kireç kalınsa bir saate çıkar. Eski diş fırçasıyla delikleri temizle, tak ve bir dakika soğuk su akıt. Akış açılınca farkı görürsün. Bu yöntem krom ve plastik başlık için; mermer ve doğal taşa sirke değdirmeyin. Bunu kaydet, bir dahaki su azalmasında tekrar izle. Ve unutma...",
+  "metin_sha256": "085767fc2331c67bf3391018212ca654bc934b0474dd11c7650bf3cae0b0c2f4",
+  "dil": "tr-TR",
+  "konusmaci": "kadın anlatıcı",
+  "ses_id": "voice-10",
+  "ses_secim_kaydi": "Kullanıcı onayı: 'kadın' = voice-10 (feminine, conversational, tr, index 10, bu oturum)",
+  "sentez_hiz_ayari": null,
+  "post_speed_factor": 1.0,
+  "uygulanmis_islemler": [],
+  "temizlik": "yok (sentez çıktısı olduğu gibi)",
+  "gercek_sure_sn": 36.0,
+  "ornekleme_hizi_hz": 24000,
+  "kanal": 1,
+  "bicim": "WAV (PCM)",
+  "bit_derinligi_bit": 16,
+  "byte_boyutu": 1728078,
+  "dosya_sha256": "a06fecf5f4b60fb02de6f56861be04645c7084bc7fb931d2b4f26afbbef4fdbc",
+  "yapilan_kontroller": [
+    "dosya açıldı/decode edildi (Python wave)",
+    "süre/örnekleme/kanal/bit derinliği ölçüldü",
+    "metin + dosya SHA-256 hesaplandı"
+  ],
+  "yapilmayan_kontroller": [
+    "dinleme yapılmadı",
+    "otomatik transkripsiyon yapılmadı"
+  ],
+  "sorunlar": [
+    "Ses promptu sıcak/sakin 30-40 yaş kadın isterken atanmış ses voice-10 kullanıldı (genç ton).",
+    "Duraklama/vurgu (~200 ms) yönergeleri sentez aracında ayarlanamıyor; uygulanmadı."
+  ],
+  "requires_alignment": true
+}

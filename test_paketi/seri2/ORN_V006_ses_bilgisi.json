@@ -1,0 +1,36 @@
+{
+  "proje_anahtari": "ORN_V006",
+  "dosya_adi": "ORN_V006_ses.wav",
+  "senaryo_surumu": "Seri 2 v2 (ORN_V004-006) — bu ileti metin hash'i içermiyor; hash burada hesaplandı",
+  "okunan_metin": "Sarımsak soymak için on dakika harcıyorsan yanlış yerde uğraşıyorsun. Kabuğu tek tek ayırmak yerine hepsini birden dökeceksin. Başları dişlerine ayır, aynı boyda kuru bir kaba koy ve kapağı kapat. On beş saniye sertçe çalkala; kabuklar kendiliğinden ayrılır. Kalan birkaç diş için bıçağın sırtıyla hafifçe bastır, kabuk çıkar. Taze sarımsakta kabuk daha çok yapışır, süreyi yirmi saniyeye çıkarabilirsin; ezik ve çürük dişleri ayır. Kap kuru olmalı, ıslak kapta kabuk kaymaz. Bunu kaydet, bir dahaki yemekte zaman kaybetme. Ve unutma...",
+  "metin_sha256": "ef2fd8b27a875cd990e278d56b71cf2de8553cda799e14f5ff6d209351f92486",
+  "dil": "tr-TR",
+  "konusmaci": "kadın anlatıcı",
+  "ses_id": "voice-10",
+  "ses_secim_kaydi": "Kullanıcı onayı: 'kadın' = voice-10 (feminine, conversational, tr, index 10, bu oturum)",
+  "sentez_hiz_ayari": null,
+  "post_speed_factor": 1.0,
+  "uygulanmis_islemler": [],
+  "temizlik": "yok (sentez çıktısı olduğu gibi)",
+  "gercek_sure_sn": 36.92,
+  "ornekleme_hizi_hz": 24000,
+  "kanal": 1,
+  "bicim": "WAV (PCM)",
+  "bit_derinligi_bit": 16,
+  "byte_boyutu": 1772238,
+  "dosya_sha256": "b37efb56d1bc4ba3159b4ab980b8771660ebf48ea3ab2494f8fbd22f69856889",
+  "yapilan_kontroller": [
+    "dosya açıldı/decode edildi (Python wave)",
+    "süre/örnekleme/kanal/bit derinliği ölçüldü",
+    "metin + dosya SHA-256 hesaplandı"
+  ],
+  "yapilmayan_kontroller": [
+    "dinleme yapılmadı",
+    "otomatik transkripsiyon yapılmadı"
+  ],
+  "sorunlar": [
+    "Ses promptu sıcak/sakin 30-40 yaş kadın isterken atanmış ses voice-10 kullanıldı (genç ton).",
+    "Duraklama/vurgu (~200 ms) yönergeleri sentez aracında ayarlanamıyor; uygulanmadı."
+  ],
+  "requires_alignment": true
+}
